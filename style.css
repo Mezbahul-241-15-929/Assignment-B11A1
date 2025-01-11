@@ -43,7 +43,6 @@
 /* Banner Section css */
 .banner {
     max-width: 1600px;
-    height: 560px;
     margin: 0 auto;
     padding: 24px 80px 24px 80px;
 
@@ -105,3 +104,136 @@
     letter-spacing: 0%;
 
 }
+
+/* The Vision of Future css */
+.future {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 24px 80px 24px 80px;
+    margin-bottom: 30px;
+}
+
+.future-main {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    padding: 0 0;
+    gap: 40px;
+}
+
+.title>h1 {
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.title>p,
+.text1 {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.card-section {
+    display: flex;
+    gap: 24px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding: 32px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    gap: 24px;
+}
+
+.btn1,
+.btn2,
+.btn3 {
+    border-radius: 8px;
+    width: 122px;
+    height: 41px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.btn1 {
+    background: rgb(84, 144, 245);
+}
+
+.btn2 {
+    background: rgb(9, 161, 92);
+}
+
+.btn3 {
+
+    background: rgb(255, 194, 57);
+}
+
+.card1,
+.card2 {
+    background: rgba(84, 144, 245, 0.2);
+}
+
+.card3 {
+    background: rgb(247, 235, 207);
+}
+
+/* Recent News css */
+.news {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 24px 80px 24px 80px;
+    margin-bottom: 30px;
+}
+
+.news-main {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    padding: 0 0;
+    gap: 40px;
+}
+
+
+
+.recent-card {
+    display: flex;
+    flex-direction: column;
+    max-width: 1280px;
+
+}
+
+.hcard {
+    display: flex;
+    gap: 32px;
+    margin: 24px 0px;
+    padding: 48px;
+    border-radius: 24px;
+    background: rgba(212, 202, 202, 0.347);
+}
+
