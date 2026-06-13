@@ -4,7 +4,7 @@ Assignment-B11A1
 Project Description:
 This is a clean and modern web layout project built as part of Assignment-B11A1. The project showcases a well-structured HTML page with carefully crafted CSS styling, focusing on visual hierarchy, typography, and component-based design. It demonstrates foundational front-end development skills including semantic HTML structure, custom styling, and layout composition.
 
-
+Desktop only — not optimized for mobile.
 View Live Site: https://mezbahul-241-15-929.github.io/Assignment-B11A1/
 
 
