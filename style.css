@@ -49,7 +49,7 @@
 }
 
 .banner-main {
-    max-width: 1280px;
+    max-width: 1600px;
     height: 560px;
     margin: 0 auto;
     display: flex;
@@ -115,7 +115,7 @@
 }
 
 .future-main {
-    max-width: 1280px;
+    max-width: 1600px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -209,7 +209,7 @@
 }
 
 .news-main {
-    max-width: 1280px;
+    max-width: 1600px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -225,7 +225,7 @@
 .recent-card {
     display: flex;
     flex-direction: column;
-    max-width: 1280px;
+    max-width: 1600px;
 
 }
 
@@ -288,7 +288,7 @@
 }
 
 .donate-main {
-    max-width: 1280px;
+    max-width: 1600px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
